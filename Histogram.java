@@ -1,6 +1,3 @@
-//Team #3
-//Histogram
-
 import java.util.*;
 import java.io.*;
 
