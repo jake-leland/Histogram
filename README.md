@@ -8,4 +8,4 @@ The user will be prompted to enter the name of a file. The file that is entered 
 There are three outputs:
 	1. The number of times each letter occurred in the document.
 	2. The frequency of the letters, sorted alphabetically.
-	3. The frequency of the letters, sorted from most to least frequent.
+	3. The frequency of the letters, sorted from most frequent to least frequent.
