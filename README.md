@@ -9,3 +9,7 @@ There are three outputs:
 	1. The number of times each letter occurred in the document.
 	2. The frequency of the letters, sorted alphabetically.
 	3. The frequency of the letters, sorted from most frequent to least frequent.
+
+There are two java files:
+	Histogram.java is the Histogram class.
+	HistogramRunner.java contains the main method. It creates a Histogram object and handles the file.
